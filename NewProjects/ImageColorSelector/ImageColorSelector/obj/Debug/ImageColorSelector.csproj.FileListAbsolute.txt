@@ -1,0 +1,12 @@
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\bin\Debug\ImageColorSelector.exe.config
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\bin\Debug\ImageColorSelector.exe
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\bin\Debug\ImageColorSelector.pdb
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.csprojResolveAssemblyReference.cache
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.Form1.resources
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.Properties.Resources.resources
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.csproj.GenerateResource.Cache
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.exe
+c:\users\aamir\documents\visual studio 2013\Projects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.pdb
+C:\Users\Aamir\Documents\Visual Studio 2013\NewProjects\ImageColorSelector\ImageColorSelector\bin\Debug\ImageColorSelector.exe.config
+C:\Users\Aamir\Documents\Visual Studio 2013\NewProjects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.exe
+C:\Users\Aamir\Documents\Visual Studio 2013\NewProjects\ImageColorSelector\ImageColorSelector\obj\Debug\ImageColorSelector.pdb

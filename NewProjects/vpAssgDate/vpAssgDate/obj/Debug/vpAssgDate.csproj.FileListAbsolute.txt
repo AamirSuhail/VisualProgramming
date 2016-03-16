@@ -1,0 +1,6 @@
+c:\users\aamir\documents\visual studio 2013\Projects\vpAssgDate\vpAssgDate\bin\Debug\vpAssgDate.exe.config
+c:\users\aamir\documents\visual studio 2013\Projects\vpAssgDate\vpAssgDate\bin\Debug\vpAssgDate.exe
+c:\users\aamir\documents\visual studio 2013\Projects\vpAssgDate\vpAssgDate\bin\Debug\vpAssgDate.pdb
+c:\users\aamir\documents\visual studio 2013\Projects\vpAssgDate\vpAssgDate\obj\Debug\vpAssgDate.exe
+c:\users\aamir\documents\visual studio 2013\Projects\vpAssgDate\vpAssgDate\obj\Debug\vpAssgDate.pdb
+C:\Users\Aamir\documents\visual studio 2013\Projects\vpAssgDate\vpAssgDate\obj\Debug\vpAssgDate.csprojResolveAssemblyReference.cache
